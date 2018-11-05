@@ -7,7 +7,7 @@ Vue directive for inputing number and additional character in a virtual keyboard
 
 # Usage
 
-## Simplest way
+## The Simplest Way
 
     <input type="text" v-number-panel>
 

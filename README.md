@@ -1,6 +1,8 @@
 # v-number-panel
 Vue directive for inputing number and additional character in a virtual keyboard.
 
+[Demo](https://demo-laravel52.capilano-fw.com/vue_number_panel)
+
 # Preparation
 
     <script src="/PATH/TO/PACKAGE/v-number-panel.js"></script>

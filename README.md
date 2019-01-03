@@ -1,11 +1,11 @@
 # v-number-panel
-Vue directive for inputing number and additional character in a virtual keyboard.
+A Vue directive for entering numbers and additional characters with a virtual keyboard.
 
 [Demo](https://demo-laravel52.capilano-fw.com/vue_number_panel)
 
-# Preparation
+# Installation
 
-    <script src="/PATH/TO/PACKAGE/v-number-panel.js"></script>
+    npm i v-number-panel --save
 
 # Usage
 
@@ -28,7 +28,8 @@ You can input additional character(s).
                 extraInputs: {
                     '-': 'Dash',
                     '*': 'Asterisk'
-                }
+                },
+                clear: true // Clear when focus
             }
         }
     });

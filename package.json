@@ -1,0 +1,20 @@
+{
+  "name": "v-number-panel",
+  "version": "1.0.2",
+  "description": "A Vue directive for entering numbers and additional characters with a virtual keyboard.",
+  "main": "dist/v-number-panel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUKOHI/v-number-panel.git"
+  },
+  "keywords": ["vue","number", "input"],
+  "author": "Sukohi Kuhoh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SUKOHI/v-number-panel/issues"
+  },
+  "homepage": "https://github.com/SUKOHI/v-number-panel#readme"
+}

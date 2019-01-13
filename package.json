@@ -1,6 +1,6 @@
 {
   "name": "v-number-panel",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Vue directive for entering numbers and additional characters with a virtual keyboard.",
   "main": "dist/v-number-panel.js",
   "scripts": {

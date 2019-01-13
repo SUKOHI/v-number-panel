@@ -146,6 +146,7 @@ Vue.directive('number-panel', {
                 binding.value.clear === true) {
 
                 input.value = '';
+                input.dispatchEvent(new Event('input'));
 
             }
 

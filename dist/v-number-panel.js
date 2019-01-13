@@ -127,6 +127,7 @@ Vue.directive('number-panel', {
             if (panelInit && hasOptions && binding.value.clear === true) {
 
                 input.value = '';
+                input.dispatchEvent(new Event('input'));
             }
         });
         el.addEventListener('blur', function () {
